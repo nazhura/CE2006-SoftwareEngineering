@@ -1,0 +1,4910 @@
+var parks = {
+    "type" : "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Pelatok Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.96085701087,
+                    1.34617500824454,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Turnhouse Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.978978976056,
+                    1.38990401870983,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Coney Island Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.923130995416,
+                    1.4099130157165,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Stratton Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.866966992109,
+                    1.37923700487091,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Leban Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.829073008381,
+                    1.37276100286023,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kew Drive Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.951753989584,
+                    1.3207100152588,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Harvey Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.955191986755,
+                    1.34065899009129,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Poh Huat Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.881610986055,
+                    1.36693701735687,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lentor Street Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834277001944,
+                    1.39009800189331,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lilac Drive Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.861150995157,
+                    1.38109901056076,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mei Hwan Drive Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863473007606,
+                    1.35335001597094,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chuan Green Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.866008002092,
+                    1.36048001138245,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Begonia Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863388004105,
+                    1.3878569764647,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fudu Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837233991568,
+                    1.38983500975178,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Countryside Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838591002804,
+                    1.39006498690252,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Pari Burong Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.946937998833,
+                    1.3338490080587,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "St. Nicholas View Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.832785007318,
+                    1.37162600142277,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Waringin Park Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.919178991455,
+                    1.32302300071578,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tai Keng Place Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884842001596,
+                    1.345032012357,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Parry Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.877503995194,
+                    1.36602898427679,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Garden View Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.865669002678,
+                    1.36042501254669,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Naung Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.892821980736,
+                    1.36956298336645,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lentor Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838382992442,
+                    1.38863100316938,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mariam Way Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.966204991398,
+                    1.36195200532663,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mariam Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.968546996712,
+                    1.35954702875823,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Thomson Green Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.832622992872,
+                    1.37869201086068,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Surin Avenue Neighbourhood Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884109015017,
+                    1.35555801355152,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chiltern Drive Interim Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862005994263,
+                    1.3485589866523,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kew Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.948585989819,
+                    1.31918799226855,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lentor Green Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837056005834,
+                    1.38528598872966,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Nim Crescent Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86684100749,
+                    1.38307998862516,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Colchester Grove Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.867454004249,
+                    1.3575850011328,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tavistock Avenue Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.865358006982,
+                    1.37020698685564,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Elite Terrace Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.924306015806,
+                    1.31559901614235,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Selaseh Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.873382001962,
+                    1.38560200214797,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Geneng Interim Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.880875016585,
+                    1.35333801951661,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kampong Glam Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862996003651,
+                    1.30244501399783,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clover Way Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845964994247,
+                    1.35013800008884,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Marine Parade Road Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.908132009336,
+                    1.30489699274238,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Butterfly Avenue Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.877337012157,
+                    1.3344340005684,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Marymount Terrace Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840364994858,
+                    1.34895300431616,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Carmichael Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863114996244,
+                    1.34262199857387,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Greenridge Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.765763004383,
+                    1.3342800030382,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fulton Avenue Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833535006924,
+                    1.36211900551873,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Savoy Park Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.769988997386,
+                    1.33343799865579,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Eng Kong Place Fitness Corner"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.767246997122,
+                    1.33473900830612,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pandan Reservoir Fitness Corner"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74869600057,
+                    1.31755100565495,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bukit Timah Nature Reserve"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.774032955111,
+                    1.35319898245639,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "one-north Park: Mediapolis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.792829540115,
+                    1.29493834487393,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lakeside Grove Fitness Corner"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.717160003251,
+                    1.33980400972371,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Westwood Park Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.701048000098,
+                    1.35177199512194,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cashew Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764668007983,
+                    1.37060000450024,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chu Yen Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.759016001687,
+                    1.35864000916998,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hillview Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.761025000317,
+                    1.35536100795603,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sunset Way Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76640600767,
+                    1.32678800198744,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jurong Lake Gardens"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.731160967029,
+                    1.33605661779116,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "one-north Park: Fusionopolis North"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.790634518931,
+                    1.30100203775994,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taman Mas Merah Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764760003254,
+                    1.30875099860659,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cashew Link Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.768924998308,
+                    1.37135900584168,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hindhede Nature Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.776007005438,
+                    1.35020400464513,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Faber Hill Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.757975999596,
+                    1.31976699701647,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Burgundy Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.760905002133,
+                    1.33982701990743,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lorong Kemunchup Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76095898509,
+                    1.36042001623966,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Dairy Farm Nature Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773907987741,
+                    1.36271299419191,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chestnut Drive Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.768829994104,
+                    1.36763401414182,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sunset Way Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764779003407,
+                    1.32769499983866,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pavilion Park Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.751977003043,
+                    1.37228598896427,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "West Coast Green Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.756359994439,
+                    1.31555999669294,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Dermawan Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.75860600478,
+                    1.36063898092479,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "one-north Park: Rochester East"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.789162176587,
+                    1.30558122667376,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jurong Central Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.707875996198,
+                    1.33801700926634,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Faber Height Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.757667999449,
+                    1.32250399598282,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "West Coast Place Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.758450004373,
+                    1.31425397832238,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Westville Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.698636002705,
+                    1.35423700663436,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Villa Verde Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.751410997398,
+                    1.38954898021615,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bukit Batok Nature Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.765471994671,
+                    1.34754399774384,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chestnut Close Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773357003454,
+                    1.36927001062503,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Upper Seletar Reservoir Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805723997797,
+                    1.39974901320673,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Thong Soon Green Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8184459979,
+                    1.40003198984827,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Springleaf Avenue Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.822383993324,
+                    1.40087098567589,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Southern Ridges"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80483399736,
+                    1.27987700300301,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tiong Bahru Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.824027002227,
+                    1.28761700771254,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clementi Woods Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.767616991901,
+                    1.29893400799437,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Mas Puteh Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.762026993326,
+                    1.30899499439468,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "West Coast Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.762999956965,
+                    1.29615329873174,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "one-north Park: Fusionopolis South"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.790721343478,
+                    1.29961302753491,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cashew Crescent Fitness Corner Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.769495005402,
+                    1.37224501547955,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fuyong Interim Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.768537003146,
+                    1.35740900815882,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Choa Chu Kang Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.748433001808,
+                    1.38913899170983,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hazel Park Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.763644994757,
+                    1.37163501891167,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Mas Kuning Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.763605995133,
+                    1.30780800245289,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sunset Heights Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.768867997661,
+                    1.32794501705898,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Almond Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.771884003432,
+                    1.37321500854805,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Phoenix Heights Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.757240001981,
+                    1.37589003353554,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lakeside Grove Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.718593996798,
+                    1.34007298363987,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "one-north Park: Rochester West"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.788029366525,
+                    1.30611310021726,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Yunnan Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.69290199957,
+                    1.33748498597278,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bukit Batok Town Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.756069994032,
+                    1.35736098423476,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Remaja Interim Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.760775993338,
+                    1.35757800094458,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Parry Avenue Interim Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.881278002318,
+                    1.36407301180073,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mei Hwan Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.861743001571,
+                    1.35276700416957,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pebble Garden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.829488991841,
+                    1.45063801719106,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kranji Nature Trail"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.73383399198,
+                    1.44435098869543,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sembawang Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836845008751,
+                    1.4615029860945,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sengkang Riverside Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884325989939,
+                    1.39944798848949,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Brooks Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.822723028657,
+                    1.4055841273393,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Punggol Waterway Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.904814998591,
+                    1.4109970215842,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Platina Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.826118993934,
+                    1.42754499031824,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Springleaf Nature Park"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.817468667699,
+                    1.40115897651427,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kranji Reservoir Park"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.740057006009,
+                    1.43880599266327,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kandis Garden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835674007799,
+                    1.45622201251589,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Windsor Nature Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.826946179093,
+                    1.36002980955599,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Punggol Park"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.898646016222,
+                    1.37693901170228,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lower Seletar Reservoir Park"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.832171003957,
+                    1.40997400015505,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Springleaf Garden Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.822322000777,
+                    1.39803898385092,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Admiralty Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.782058929229,
+                    1.44417042427999,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Yishun Pond Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839486993379,
+                    1.42759699434119,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Rasok Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.759038994785,
+                    1.41651199011886,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Goodlink Park Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.825350996754,
+                    1.42728100396175,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Yishun Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84260999229,
+                    1.42437600154029,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lower Peirce Reservoir Park"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.826296008364,
+                    1.36906501231608,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Punggol Waterway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.9154050167,
+                    1.40223299924483,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Marsiling Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.769933998893,
+                    1.43763301771893,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pulau Ubin and Chek Jawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.965420009834,
+                    1.40868999314912,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kent Ridge Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.790318992831,
+                    1.28435300657627,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sisters\u2019 Islands Marine Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834805553003,
+                    1.21405833267371,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Telok Blangah Hill Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.810545004407,
+                    1.27884500650228,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "HortPark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.801481185309,
+                    1.27863065273452,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Raffles Place Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851334997301,
+                    1.28424399735648,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hong Lim Park - Speakers' Corner"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846577998059,
+                    1.28663900368187,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mount Batten Rd/Old Airport Rd Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88330098901,
+                    1.30573400841613,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Wilkinson Interim Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.887303997701,
+                    1.30157198694066,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bunga Rampai Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884275005667,
+                    1.34045302254281,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Handy Road Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84777500427,
+                    1.29897100091601,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kitchener Green Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.859533002821,
+                    1.30730499713228,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Penang Road Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.841238007513,
+                    1.30009699401837,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "National Orchid Garden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.813893992211,
+                    1.31267000887848,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Eng Kong Garden Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.769163007842,
+                    1.33692401719002,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sennett Avenue Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.939423995901,
+                    1.31878498855893,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Interim Park At Lengkong Enam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.914736987314,
+                    1.32736399042993,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pesari Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.953982005401,
+                    1.32442800353246,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Changi Heights Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.972156990988,
+                    1.36284801405719,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Senang Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.915657988943,
+                    1.32899598345262,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Telok Kurau Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.914285987588,
+                    1.31536500670409,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sunrise Place Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856600000567,
+                    1.38694298284096,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Seletar Terrace Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.868719994142,
+                    1.38146800285887,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Upper Peirce Reservoir Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.811353002102,
+                    1.37450901296906,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tai Hwan Terrace Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.860395002318,
+                    1.35635900364815,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Woodlands Town Park East"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.779225994086,
+                    1.43652399605571,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sungei Buloh Wetland Reserve"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.735469441118,
+                    1.44021109438519,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tamarind Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.860192003962,
+                    1.38970200824166,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Woodlands Waterfront Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.780115001631,
+                    1.45270000280122,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ellington Square Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8345300001,
+                    1.37200201143139,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Thrift Drive Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.883247013056,
+                    1.34388700495724,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cactus Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852235996241,
+                    1.39010900260341,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Serenade Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834559997553,
+                    1.37992099278184,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gelenggang Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82985799937,
+                    1.3734760171315,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Park Villas Terrace Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.880038986362,
+                    1.36898199651608,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Kemuning Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.826964006486,
+                    1.43935801058573,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sunrise Terrace Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85612099449,
+                    1.38825798987759,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sunrise Close Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85751000337,
+                    1.38701200648595,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Thomson Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.832498999628,
+                    1.37599700541463,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mimosa Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862974003853,
+                    1.38426200171396,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chartwell Drive Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863871997607,
+                    1.35963099707599,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Springside Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.820607004324,
+                    1.40567198380168,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Florissa Park Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835071996736,
+                    1.38695401385743,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kranji Marshes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.719891001209,
+                    1.4202270044737,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Janggus Garden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836984004973,
+                    1.45754000043802,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ann Siang Hill Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846118991983,
+                    1.28043799569511,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Duxton Plain Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.841419008008,
+                    1.28112199338038,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Yishun Neighbourhood Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835077000931,
+                    1.43762199315966,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tanah Puteh Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.931431007828,
+                    1.31587297458671,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Pari Dedap Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.943879998136,
+                    1.33302098061918,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Limau Kasturi Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.946385010592,
+                    1.32398300052142,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Dew Garden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.871064999127,
+                    1.39926598983919,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sunrise Way Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8567519929,
+                    1.38766198061858,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Kelichap Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.881825008434,
+                    1.34678199384784,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Interim Park at Terang Bulan Avenue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.921576998431,
+                    1.32163298613197,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sunbird Circle Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.958233998139,
+                    1.33903900258699,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Pelatok Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.96034399401,
+                    1.34609499913104,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Limau Kasturi Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.946227975324,
+                    1.32428400500475,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Changi East Boardwalk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.98634401654,
+                    1.39179402610172,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Teacher's Estate Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.829199999261,
+                    1.38199198350515,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "East Coast Terrace Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.923806011504,
+                    1.31099600110692,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Singapore Botanic Gardens"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8162510018,
+                    1.31104799117615,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Labrador Nature Reserve"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.803132991334,
+                    1.26576098729676,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sembawang Hot Spring Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.822646892476,
+                    1.43416900745054,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sennett Avenue Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.936211992606,
+                    1.31701300192687,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lucky Gardens Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.941376027843,
+                    1.31928700190599,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bedok Town Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.920870105439,
+                    1.33433543386641,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lentor Grove Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838321000262,
+                    1.38637898011574,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Telok Kurau Lorong N Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.912805012433,
+                    1.31032499244793,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Dedap Place Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.868412996645,
+                    1.38779799024028,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chuan Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.867552999516,
+                    1.35722198250143,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bedok Reservoir Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.926809990659,
+                    1.33909400181013,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Riang Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.867396000461,
+                    1.34710898656633,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Changi West Boardwalk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.975878001995,
+                    1.39004398808481,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cheng Soon Garden Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.771683001973,
+                    1.33588600793432,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Tekukor Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.766776000112,
+                    1.34613801947644,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Namly Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.796581000747,
+                    1.32329899251823,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Novena Rise Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842727999825,
+                    1.3248380105169,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hooper Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843203991187,
+                    1.31239900279065,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chwee Chian Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.788954002616,
+                    1.27920699805128,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Esplanade Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853597006001,
+                    1.28941700056052,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bishan-Ang Mo Kio Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847295002494,
+                    1.3614559889116,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Arthur Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88821399352,
+                    1.30338100339795,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "one-north Park: Biopolis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.790368006179,
+                    1.30427800508224,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Katong Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88636699295,
+                    1.29717500161512,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Meyer Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.894196994238,
+                    1.29856899320857,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Thomson Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843851998491,
+                    1.31615298537997,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jacob Ballas Children's Garden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81791820006,
+                    1.32069549289459,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jupiter Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.825161003409,
+                    1.35827000334118,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gentle Drive Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840698992687,
+                    1.32036100553335,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Goldhill Avenue Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833174001996,
+                    1.32113298217552,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pasir Panjang Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.792076002745,
+                    1.27569899889613,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lorong 40 Geylang Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.889368987508,
+                    1.31365001641553,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Telok Ayer Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84668700735,
+                    1.27817799839718,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Aljunied Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.879963007648,
+                    1.3291380155208,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jambol Place Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.790185001957,
+                    1.27902600515874,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pearl's Hill City Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839540995736,
+                    1.28238099129417,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Oasis@Mulberry Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.878435998931,
+                    1.33232501027716,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Haig Walk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.900740008896,
+                    1.30651900009923,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Pintau Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839945000658,
+                    1.35403599295373,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Joo Chiat Terrace Interim Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.901698999963,
+                    1.3144079987312,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Orchid Village Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.801713002995,
+                    1.33570401108734,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clementi Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773259992457,
+                    1.3231039894972,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pemimpin Place Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842720000709,
+                    1.35337000437201,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Soo Chow Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.832027997859,
+                    1.35364696671371,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Highgate Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.765983998843,
+                    1.34051598711497,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Island Gardens Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.828438998161,
+                    1.36199899589951,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MacRitchie Reservoir Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833590006976,
+                    1.34152298935114,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Marina Promenade"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.864678999149,
+                    1.29057200094772,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ang Mo Kio Town Garden East"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850285996786,
+                    1.37057100018187,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Holland Grove View Fitness Corner"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.782779005345,
+                    1.31248299217226,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sixth Avenue Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.791281008483,
+                    1.32243601665582,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "War Memorial Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854818004778,
+                    1.29282499699848,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Beng Wan Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86583500031,
+                    1.32380597927059,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Henry Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.783106005851,
+                    1.31623499758018,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "River Valley Road / Clemenceau Avenue Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84491500795,
+                    1.29308999556797,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ang Mo Kio Town Garden West"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842887001241,
+                    1.37402501376588,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mayfair Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.780895006173,
+                    1.34139598931109,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Guillemard Road Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.892397015046,
+                    1.3145509896298,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Thomson Park Estate Interim Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834034991637,
+                    1.35655698822033,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bangsawan Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.923837990533,
+                    1.32120799539342,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Eastwood Park Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.957615982182,
+                    1.32311502040416,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Watten Heights Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80898700707,
+                    1.33170298432389,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Grove Lane Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.784206003929,
+                    1.31376300928782,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Carpmael Road Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.898952005306,
+                    1.31150200552321,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Orchard Fountain Corner"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837610994321,
+                    1.30158700260588,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Holland Village Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.795543995849,
+                    1.31173000006272,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Waterboat House Garden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853473001627,
+                    1.28732000560153,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rowell Road Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854849,
+                    1.30842200284088,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Youth Olympic Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.860638997467,
+                    1.28848999572479,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Greenwood Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805487000523,
+                    1.33550601569391,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Berlayer Creek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.802693003573,
+                    1.27236499187616,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kim Pong Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.829977001375,
+                    1.28384500791232,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Novena Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842813002418,
+                    1.32231297895579,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Golden Rise Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764869007062,
+                    1.33632401782669,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lembu Road Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854776006135,
+                    1.30975899721142,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hoover Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773039987989,
+                    1.34386298455144,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tanjong Katong Road South Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89732200163,
+                    1.30017400290536,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Kebaya Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.780245998799,
+                    1.31411501669973,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shelford Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.810509002674,
+                    1.32834400830712,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Malcolm Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.827057999456,
+                    1.32298701214919,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Foothills Fort Canning Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84569099786,
+                    1.29225799342141,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MacPherson Linear Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.881706014162,
+                    1.33379800164764,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ganges Avenue Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83179800761,
+                    1.29075999254776,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chempaka Avenue Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.875615995335,
+                    1.33187400889662,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Geylang East Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.887658999231,
+                    1.32177198800448,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fort Canning Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846609005448,
+                    1.29177800435869,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Changi Beach Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.001675008726,
+                    1.38340098971507,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Chempaka Kuning Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.950168022101,
+                    1.32974601652478,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Saraca Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.858757994618,
+                    1.38594300243715,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mimosa Walk Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.861459991791,
+                    1.38310499948583,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mera Terrace Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.963506003857,
+                    1.34740400583367,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Angin Laut Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.956225002141,
+                    1.33718398610323,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sunrise Drive Playground 2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855252008289,
+                    1.39030101988892,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lentor Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837572008652,
+                    1.38829201020433,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pasir Ris Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.952173012299,
+                    1.37868402178859,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Loyang View Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.965636997663,
+                    1.36303900201943,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Buloh Perindu Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.919383992137,
+                    1.30848299814914,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tanah Merah Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94687600443,
+                    1.32902900416768,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Luxus Hills Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.875185997533,
+                    1.37949200292749,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Banyan Villas Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838825995108,
+                    1.38725001009072,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taman Kembangan Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.914401992508,
+                    1.32500301174325,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jalan Limau Manis Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.949047986876,
+                    1.32472798680362,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Richards Avenue Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.882129005066,
+                    1.36092898756718,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lorong Tanggam Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.873847999194,
+                    1.39903502830064,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bougainvillea Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.807658003097,
+                    1.32671600556136,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Holland Green Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.782814007566,
+                    1.32686097997825,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "North Bridge Garden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862146001865,
+                    1.30410899340616,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Istana Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843838993634,
+                    1.29926400300755,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Toa Payoh Town Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847968006121,
+                    1.33057999366942,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kim Seng Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834956997814,
+                    1.29283999640308,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mount Sinai Plain Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78122199104,
+                    1.3157090147631,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Thomson Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834364003112,
+                    1.35429099006295,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Holland Grove View Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.781229998572,
+                    1.31295098590754,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Dhoby Ghaut Green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845882003067,
+                    1.29834300751732,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mount Emily Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847462000956,
+                    1.30449799629073,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kallang Riverside Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.866978993095,
+                    1.30578700601773,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Empress Place"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851956991278,
+                    1.2868239938791,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mount Faber Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.818222000624,
+                    1.27528100835684,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "East Coast Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.920605001614,
+                    1.30316900590952,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Limau Garden Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.950772994504,
+                    1.3224530006075,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Meragi Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.960282983203,
+                    1.34438300662538,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Realty Park Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.889831987144,
+                    1.367302019013,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pasir Ris Town Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.952377989422,
+                    1.37168999463144,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bedok Ria Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.953081982587,
+                    1.3274170012123,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Coronation Park Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.796399992559,
+                    1.32202599013522,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Inglewood Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.830173997508,
+                    1.36101398325524,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Duchess Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805479000604,
+                    1.32428998877263,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clover Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844621998074,
+                    1.35106199585901,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Binchang Rise Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843547994579,
+                    1.34867398297342,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taman Permata Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835175010264,
+                    1.35015599579781,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hua Guan Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.785060002552,
+                    1.33701100440066,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Central Catchment Nature Reserve"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805473991222,
+                    1.37730497383028,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Siang Kuang Avenue Interim Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.873050010599,
+                    1.32972099363571,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Somme Road Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.858152000653,
+                    1.31148401066078,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Stamford Green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848860995111,
+                    1.29571699496852,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "King's Drive  Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.806055991416,
+                    1.31910999951731,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "University Road Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.817665995097,
+                    1.32545199692878,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Greenleaf View Park Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.788076003791,
+                    1.32228801135119,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chestnut Nature Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78083740117,
+                    1.37097156701338,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Telok Ayer Green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847644002876,
+                    1.28146500698614,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mayflower Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839569003072,
+                    1.3727180131601,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sunrise Drive Playground 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.857369999308,
+                    1.38830597203414,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Elias Terrace Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.941093992579,
+                    1.37219001582779,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kew Avenue Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.948451009513,
+                    1.32162700448726,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Greenfield Drive Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.917655996762,
+                    1.31303499211434,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sun Plaza Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.944481988262,
+                    1.359264023047,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Changi Point Ferry Terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.987296000544,
+                    1.39122600073616,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shangri-La Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.832391997745,
+                    1.37102098159919,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Opera Estate Football Field"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.924455991866,
+                    1.32010101002963,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lentor Vale Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836146008453,
+                    1.3880540162578,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Limau Villas Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.950394989304,
+                    1.32385199809351,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Paya Lebar Crescent Open Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.883569003858,
+                    1.34896701230879,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mugliston Park Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87790599596,
+                    1.38544598318684,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sungei Api Api Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.9456669951,
+                    1.37873299431662,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Yio Chu Kang Gardens Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837486998981,
+                    1.3806810080854,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tampines Eco Green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.948689980155,
+                    1.36391499068087,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mimosa Terrace Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.860449992285,
+                    1.38405000123823,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Neram Crescent Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.865743999885,
+                    1.38558901364397,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Changi Point Waterfront Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.98808900299,
+                    1.39064700115984,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Aida Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.927926997004,
+                    1.31938000337146,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tai Keng Gardens Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884997993848,
+                    1.34607100763102,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Realty Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.890364510014,
+                    1.36796366154687,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Changi Point Promenade"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.989190007291,
+                    1.39017201315715,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Aroozoo Avenue Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.885954996071,
+                    1.35519602028456,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "St. Anne's Wood Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.903735985364,
+                    1.3916400007576,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bedok Terrace Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.947489983993,
+                    1.32553400234434,
+                    0.0
+                ]
+            }
+        }
+    ]
+};

@@ -1,0 +1,743 @@
+{
+    "type" : "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Coney Island Park",
+                "MGS": true,
+                "VisitorshipName" : "Coney Island Park East Entrance (from Lorong Halus) "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.923130995416,
+                    1.4099130157165,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Jurong Lake Gardens",
+                "MGS": true,
+                "VisitorshipName" : "Jurong Lake Gardens - Forest Ramble"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.731160967029,
+                    1.33605661779116,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Hindhede Nature Park",
+                "MGS": true,
+                "VisitorshipName": "Hindhede Nature Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.776007005438,
+                    1.35020400464513,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Jurong Central Park",
+                "MGS": true,
+                "VisitorshipName": "Jurong Central Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.707875996198,
+                    1.33801700926634,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Upper Seletar Reservoir Park",
+                "MGS": true,
+                "VisitorshipName": "Upper Seletar Reservoir Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805723997797,
+                    1.39974901320673,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "The Southern Ridges",
+                "MGS": true,
+                "VisitorshipName": "Henderson Waves - Southern Ridges"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80483399736,
+                    1.27987700300301,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Tiong Bahru Park",
+                "MGS": true,
+                "VisitorshipName": "Tiong Bahru Park - Fitness Corner (Near Henderson)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.824027002227,
+                    1.28761700771254,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Clementi Woods Park",
+                "MGS": true,
+                "VisitorshipName": "Clementi Woods Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.767616991901,
+                    1.29893400799437,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Choa Chu Kang Park",
+                "MGS": true,
+                "VisitorshipName": "Choa Chu Kang Park "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.748433001808,
+                    1.38913899170983,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Bukit Batok Town Park",
+                "MGS": true,
+                "VisitorshipName": "Bukit Batok Town Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.756069994032,
+                    1.35736098423476,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Sembawang Park",
+                "MGS": true,
+                "VisitorshipName" : "Sembawang Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836845008751,
+                    1.4615029860945,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Sengkang Riverside Park",
+                "MGS": true,
+                "VisitorshipName" : "Toilet,F&B & carpark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884325989939,
+                    1.39944798848949,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Punggol Waterway Park",
+                "MGS": true,
+                "VisitorshipName" : "Punggol Waterway Park (near Carpark B)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.904814998591,
+                    1.4109970215842,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Springleaf Nature Park",
+                "MGS": true,
+                "VisitorshipName" : "Springleaf Nature Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.817468667699,
+                    1.40115897651427,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Kranji Reservoir Park",
+                "MGS": true,
+                "VisitorshipName" : "Kranji Reservoir Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.740057006009,
+                    1.43880599266327,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Punggol Park",
+                "MGS": true,
+                "VisitorshipName" : "Punggol Park (Long Shelters)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.898646016222,
+                    1.37693901170228,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Lower Seletar Reservoir Park",
+                "MGS": true,
+                "VisitorshipName" : "Lower Seletar Reservoir Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.832171003957,
+                    1.40997400015505,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Admiralty Park",
+                "MGS": true,
+                "VisitorshipName" : "Admiralty Park "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.782058929229,
+                    1.44417042427999,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Yishun Pond Park",
+                "MGS": true,
+                "VisitorshipName" : "Yishun Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839486993379,
+                    1.42759699434119,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Yishun Park",
+                "MGS": true,
+                "VisitorshipName" : "Yishun Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84260999229,
+                    1.42437600154029,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Lower Peirce Reservoir Park",
+                "MGS": true,
+                "VisitorshipName" : "Lower Peirce Reservoir Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.826296008364,
+                    1.36906501231608,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Pulau Ubin and Chek Jawa",
+                "MGS": true,
+                "VisitorshipName" : "Chek Jawa Wetlands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.965420009834,
+                    1.40868999314912,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Telok Blangah Hill Park",
+                "MGS": true,
+                "VisitorshipName" : "Telok Blangah Hill Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.810545004407,
+                    1.27884500650228,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "HortPark",
+                "MGS": true,
+                "VisitorshipName" : "HortPark gardens"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.801481185309,
+                    1.27863065273452,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Raffles Place Park",
+                "MGS": true,
+                "VisitorshipName" : "Empress Place - Raffles Landing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851334997301,
+                    1.28424399735648,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "National Orchid Garden",
+                "MGS": true,
+                "VisitorshipName" : "Singapore Botanic Gardens - National Orchid Garden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.813893992211,
+                    1.31267000887848,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Upper Peirce Reservoir Park",
+                "MGS": true,
+                "VisitorshipName" : "Upper Peirce Reservoir Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.811353002102,
+                    1.37450901296906,
+                    0.0
+                ]
+            }
+        },
+		 {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kranji Marshes",
+                "MGS": true,
+                "VisitorshipName" : "Kranji Marshes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.719891001209,
+                    1.4202270044737,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Bedok Town Park",
+                "MGS": true,
+                "VisitorshipName" : "Bedok Town Park (Allotment Garden)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.920870105439,
+                    1.33433543386641,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Yishun Neighbourhood Park",
+                "MGS": true,
+                "VisitorshipName" : "Yishun Neighbourhood Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835077000931,
+                    1.43762199315966,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Sembawang Hot Spring Park",
+                "MGS": true,
+                "VisitorshipName" : "Sembawang Hot Spring Park (Core Area)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.822646892476,
+                    1.43416900745054,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Bedok Reservoir Park",
+                "MGS": true,
+                "VisitorshipName" : "Bedok Reservoir Park (Hilltop)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.926809990659,
+                    1.33909400181013,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Esplanade Park",
+                "MGS": true,
+                "VisitorshipName" : "Esplanade Park - Cenotaph "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853597006001,
+                    1.28941700056052,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Jacob Ballas Children's Garden",
+                "MGS": true,
+                "VisitorshipName" : "Singapore Botanic Gardens - Jacob Ballas Children's Garden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81791820006,
+                    1.32069549289459,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Ang Mo Kio Town Garden East",
+                "MGS": true,
+                "VisitorshipName" : "Ang Mo Kio Town Garden East"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850285996786,
+                    1.37057100018187,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Youth Olympic Park",
+                "MGS": true,
+                "VisitorshipName" : "Youth Olympic Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.860638997467,
+                    1.28848999572479,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Fort Canning Park",
+                "MGS": true,
+                "VisitorshipName" : "Fort Canning Park - Fort Green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846609005448,
+                    1.29177800435869,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Changi Beach Park",
+                "MGS": true,
+                "VisitorshipName" : "Changi Beach Park Plaza Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.001675008726,
+                    1.38340098971507,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Pasir Ris Park",
+                "MGS": true,
+                "VisitorshipName" : "Pasir Ris Park Area 3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.952173012299,
+                    1.37868402178859,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Toa Payoh Town Park",
+                "MGS": true,
+                "VisitorshipName" : "Pavilion"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847968006121,
+                    1.33057999366942,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kallang Riverside Park",
+                "MGS": true,
+                "VisitorshipName" : "Kallang Riverside Park - Kampong Bugis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.866978993095,
+                    1.30578700601773,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Mount Faber Park",
+                "MGS": true,
+                "VisitorshipName" : "Mount Faber Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.818222000624,
+                    1.27528100835684,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Central Catchment Nature Reserve",
+                "MGS": true,
+                 "VisitorshipName" : "TreeTop Walk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805473991222,
+                    1.37730497383028,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Chestnut Nature Park",
+                "MGS": true,
+                "VisitorshipName" : "Chestnut Nature Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78083740117,
+                    1.37097156701338,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Sun Plaza Park",
+                "MGS": true,
+                "VisitorshipName" : "Sun Plaza Park (Plaza Area)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.944481988262,
+                    1.359264023047,
+                    0.0
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Tampines Eco Green",
+                "MGS": true,
+                "VisitorshipName" : "Tampines Eco Green (North Entrance)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.948689980155,
+                    1.36391499068087,
+                    0.0
+                ]
+            }
+        }
+	]
+}
+		
+		

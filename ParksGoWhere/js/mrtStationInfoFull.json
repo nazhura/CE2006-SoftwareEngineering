@@ -1,0 +1,3241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BUANGKOK",
+                "LinkName": "BUANGKOK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.893146827404,
+                    1.38216324197588,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SENGKANG",
+                "LinkName": "SENGKANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.895300986794,
+                    1.39085757553574,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "YIO CHU KANG",
+                "LinkName": "YIO-CHU-KANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84427960206,
+                    1.38217333197858,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "EXPO",
+                "LinkName": "EXPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.961542734126,
+                    1.33453457217766,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BEDOK",
+                "LinkName": "BEDOK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.929859078336,
+                    1.32384182235638,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "KEMBANGAN",
+                "LinkName": "KEMBANGAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.912397526716,
+                    1.32081140240552,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "EUNOS",
+                "LinkName": "EUNOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.90302220539,
+                    1.31963663196537,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TAMPINES",
+                "LinkName": "TAMPINES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.944784766847,
+                    1.35354881948952,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "COMMONWEALTH",
+                "LinkName": "COMMONWEALTH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.797777534416,
+                    1.30278285762641,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BUONA VISTA",
+                "LinkName": "BUONA-VISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.789479631239,
+                    1.30719414101311,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "DOVER",
+                "LinkName": "DOVER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.778370906556,
+                    1.3114300304485,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "HOUGANG",
+                "LinkName": "HOUGANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.892485152518,
+                    1.37083554557132,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MARSILING",
+                "LinkName": "MARSILING"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773550160653,
+                    1.43245702244493,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SEMBAWANG",
+                "LinkName": "SEMBAWANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819727057641,
+                    1.44884711412338,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "WOODLANDS",
+                "LinkName": "WOODLANDS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.785705842133,
+                    1.43653191149168,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "YISHUN",
+                "LinkName": "YISHUN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835074105665,
+                    1.42930825458239,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PUNGGOL",
+                "LinkName": "PUNGGOL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.902268512135,
+                    1.40472215581355,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "YEW TEE",
+                "LinkName": "YEW-TEE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.747406162943,
+                    1.39713488963351,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BUKIT GOMBAK",
+                "LinkName": "BUKIT-GOMBAK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.75199562073,
+                    1.35818887593322,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NEWTON",
+                "LinkName": "NEWTON"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837866672146,
+                    1.31226538751841,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "KALLANG",
+                "LinkName": "KALLANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.871245166007,
+                    1.31140491532864,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "POTONG PASIR",
+                "LinkName": "POTONG-PASIR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.869052871702,
+                    1.33057042871827,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BOON KENG",
+                "LinkName": "BOON-KENG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.861715490506,
+                    1.31967380050244,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "FARRER ROAD",
+                "LinkName": "FARRER-ROAD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.807521427307,
+                    1.31740665993945,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TELOK BLANGAH",
+                "LinkName": "TELOK-BLANGAH"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.80957740752,
+                        1.27046342874567,
+                        0.0
+                    ],
+                    [
+                        103.809905989281,
+                        1.2704376356594,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "LABRADOR PARK",
+                "LinkName": "LABRADOR-PARK"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.802465288115,
+                        1.272111068813,
+                        0.0
+                    ],
+                    [
+                        103.802794424431,
+                        1.27209385726437,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BOON LAY",
+                "LinkName": "BOON-LAY"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.705604076176,
+                        1.33824334270161,
+                        0.0
+                    ],
+                    [
+                        103.705915024599,
+                        1.33836030929635,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CHOA CHU KANG",
+                "LinkName": "CHOA-CHU-KANG"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.744456565922,
+                        1.38509416941478,
+                        0.0
+                    ],
+                    [
+                        103.744440165365,
+                        1.38542547587785,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MACPHERSON",
+                "LinkName": "MACPHERSON"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.890306656226,
+                    1.32636463416324,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TAI SENG",
+                "LinkName": "TAI-SENG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.888296249134,
+                    1.33552173419793,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MOUNTBATTEN",
+                "LinkName": "MOUNTBATTEN"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.88186787211,
+                        1.30584900128618,
+                        0.0
+                    ],
+                    [
+                        103.882166603873,
+                        1.30598913306302,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PROMENADE",
+                "LinkName": "PROMENADE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.860897344781,
+                    1.29272289572142,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "HAW PAR VILLA",
+                "LinkName": "HAW-PAR-VILLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.781412769538,
+                    1.28291453151237,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PASIR PANJANG",
+                "LinkName": "PASIR-PANJANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.790667207803,
+                    1.27633561508044,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SERANGOON",
+                "LinkName": "SERANGOON"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.873126836378,
+                    1.34889700360892,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BEDOK NORTH",
+                "LinkName": "BEDOK-NORTH"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.916591064643,
+                        1.33517128764765,
+                        0.0
+                    ],
+                    [
+                        103.918599344933,
+                        1.33433397399049,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "KAKI BUKIT",
+                "LinkName": "KAKI-BUKIT"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.907258672251,
+                        1.33460592729349,
+                        0.0
+                    ],
+                    [
+                        103.909399437599,
+                        1.33498577396569,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BEDOK RESERVOIR",
+                "LinkName": "BEDOK-RESERVOIR"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.931090503655,
+                        1.33644450992776,
+                        0.0
+                    ],
+                    [
+                        103.933262954658,
+                        1.33636806747553,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GEYLANG BAHRU",
+                "LinkName": "GEYLANG-BAHRU"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.871830804307,
+                        1.32142939137242,
+                        0.0
+                    ],
+                    [
+                        103.872113317237,
+                        1.32160023405392,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "UBI",
+                "LinkName": "UBI"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.899104408224,
+                        1.32975978142848,
+                        0.0
+                    ],
+                    [
+                        103.899407798901,
+                        1.32988938581673,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "JALAN BESAR",
+                "LinkName": "JALAN-BESAR"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.855402169331,
+                        1.3054206521765,
+                        0.0
+                    ],
+                    [
+                        103.855581676282,
+                        1.30569885215625,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "ORCHARD BOULEVARD",
+                "LinkName": "ORCHARD-BOULEVARD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.823952336647,
+                    1.30240246527113,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MAXWELL",
+                "LinkName": "MAXWELL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843772420219,
+                    1.28046324360043,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "HILLVIEW",
+                "LinkName": "HILLVIEW"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.767526438783,
+                    1.36202999465646,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BUKIT PANJANG",
+                "LinkName": "BUKIT-PANJANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.761319258645,
+                    1.37950913341157,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "WOODLANDS SOUTH",
+                "LinkName": "WOODLANDS-SOUTH"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.792887162794,
+                        1.42749565439267,
+                        0.0
+                    ],
+                    [
+                        103.794609169871,
+                        1.42679554940751,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "WOODLANDS NORTH",
+                "LinkName": "WOODLANDS-NORTH"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.785214276696,
+                        1.44908408346462,
+                        0.0
+                    ],
+                    [
+                        103.78610360804,
+                        1.4474355337942,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BISHAN",
+                "LinkName": "BISHAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848178128523,
+                    1.35050539368304,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NICOLL HIGHWAY",
+                "LinkName": "NICOLL-HIGHWAY"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.863394327461,
+                        1.29965927124286,
+                        0.0
+                    ],
+                    [
+                        103.86369953586,
+                        1.29978446781465,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BARTLEY",
+                "LinkName": "BARTLEY"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.87948466713,
+                        1.34304918055989,
+                        0.0
+                    ],
+                    [
+                        103.880222925611,
+                        1.34269998236427,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "ONE-NORTH",
+                "LinkName": "ONE-NORTH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.787261752789,
+                    1.29920907541704,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "REDHILL",
+                "LinkName": "REDHILL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.816287836072,
+                    1.28974156104041,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TIONG BAHRU",
+                "LinkName": "TIONG-BAHRU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.826326505379,
+                    1.28624200065218,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MARYMOUNT",
+                "LinkName": "MARYMOUNT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839496019729,
+                    1.3484524662913,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NOVENA",
+                "LinkName": "NOVENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843715544085,
+                    1.32015682352872,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SPRINGLEAF",
+                "LinkName": "SPRINGLEAF"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.81776000956,
+                        1.3987125092042,
+                        0.0
+                    ],
+                    [
+                        103.818161858362,
+                        1.39764043712105,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NEWTON",
+                "LinkName": "NEWTON"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838016219263,
+                    1.31357895255932,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SIXTH AVENUE",
+                "LinkName": "SIXTH-AVENUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.797392817412,
+                    1.33083425028905,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "STEVENS",
+                "LinkName": "STEVENS"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.825060748593,
+                        1.32021550305314,
+                        0.0
+                    ],
+                    [
+                        103.826824786908,
+                        1.31963116124868,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "HARBOURFRONT",
+                "LinkName": "HARBOURFRONT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.820840757121,
+                    1.26513306422402,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GARDENS BY THE BAY",
+                "LinkName": "GARDENS-BY-THE-BAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.867607320753,
+                    1.27862598919158,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "LITTLE INDIA",
+                "LinkName": "LITTLE-INDIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848463268266,
+                    1.30716737848227,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BEAUTY WORLD",
+                "LinkName": "BEAUTY-WORLD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.775766635976,
+                    1.34163539051744,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CANBERRA",
+                "LinkName": "CANBERRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.829196864009,
+                    1.44354013277492,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "WOODLEIGH",
+                "LinkName": "WOODLEIGH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.870911943187,
+                    1.33862499725312,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MARINE PARADE",
+                "LinkName": "MARINE-PARADE"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.905017805766,
+                        1.30247017870594,
+                        0.0
+                    ],
+                    [
+                        103.905289660538,
+                        1.30265772064322,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SIGLAP",
+                "LinkName": "SIGLAP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.929833496163,
+                    1.30974207821569,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TENGAH",
+                "LinkName": "TENGAH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.730046236362,
+                    1.36633904578021,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "HONG KAH",
+                "LinkName": "HONG-KAH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.726092119338,
+                    1.35807194773328,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TENGAH PLANTATION",
+                "LinkName": "TENGAH-PLANTATION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.733457189547,
+                    1.35733820919974,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PIONEER",
+                "LinkName": "PIONEER"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.697083172399,
+                        1.33746326613418,
+                        0.0
+                    ],
+                    [
+                        103.69741504462,
+                        1.33747080080366,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BAHAR JUNCTION",
+                "LinkName": "BAHAR-JUNCTION"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.703388499123,
+                        1.34622965683251,
+                        0.0
+                    ],
+                    [
+                        103.703684900739,
+                        1.34638009435938,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GEK POH",
+                "LinkName": "GEK-POH"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.697934359302,
+                        1.34823797315089,
+                        0.0
+                    ],
+                    [
+                        103.698264141864,
+                        1.34819978138809,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "ENTERPRISE",
+                "LinkName": "ENTERPRISE"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.708566083028,
+                        1.33213621209197,
+                        0.0
+                    ],
+                    [
+                        103.708647722876,
+                        1.33246005215233,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TAWAS",
+                "LinkName": "TAWAS"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.691706554517,
+                        1.35063795977401,
+                        0.0
+                    ],
+                    [
+                        103.691976894054,
+                        1.35044406871403,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PENG KANG HILL",
+                "LinkName": "PENG-KANG-HILL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.678411700692,
+                        1.34324045976462,
+                        0.0
+                    ],
+                    [
+                        103.67853296349,
+                        1.34292944683922,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NANYANG CRESCENT",
+                "LinkName": "NANYANG-CRESCENT"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.680812341588,
+                        1.34825358558899,
+                        0.0
+                    ],
+                    [
+                        103.681097228112,
+                        1.34842508489189,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TUKANG",
+                "LinkName": "TUKANG"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.709029164238,
+                        1.32572901216032,
+                        0.0
+                    ],
+                    [
+                        103.709113869767,
+                        1.32540597092549,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BAYSHORE",
+                "LinkName": "BAYSHORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94186663653,
+                    1.31286955054771,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BEDOK SOUTH",
+                "LinkName": "BEDOK-SOUTH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.949191842688,
+                    1.3164099938116,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MARINE TERRACE",
+                "LinkName": "MARINE-TERRACE"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.914978523534,
+                        1.30669619756436,
+                        0.0
+                    ],
+                    [
+                        103.916537626471,
+                        1.30707680365903,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CHOA CHU KANG WEST",
+                "LinkName": "CHOA-CHU-KANG-WEST"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.740007316392,
+                    1.37921829672166,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TUAS WEST ROAD",
+                "LinkName": "TUAS-WEST-ROAD"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.639370101084,
+                        1.33005003625121,
+                        0.0
+                    ],
+                    [
+                        103.639610376838,
+                        1.32982298054803,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TUAS LINK",
+                "LinkName": "TUAS-LINK"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.636815649971,
+                        1.34007160420115,
+                        0.0
+                    ],
+                    [
+                        103.636926530023,
+                        1.34038398513645,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MARINA BAY",
+                "LinkName": "MARINA-BAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855247208604,
+                    1.27591879865081,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CHINATOWN",
+                "LinkName": "CHINATOWN"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.844842234608,
+                        1.2843974045098,
+                        0.0
+                    ],
+                    [
+                        103.845057693028,
+                        1.28427185506763,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NAPIER",
+                "LinkName": "NAPIER"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.818795060567,
+                        1.30762369549749,
+                        0.0
+                    ],
+                    [
+                        103.818822108592,
+                        1.3057547563139,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MOUNT PLEASANT",
+                "LinkName": "MOUNT-PLEASANT"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.83420359112,
+                        1.32817965461678,
+                        0.0
+                    ],
+                    [
+                        103.835985249396,
+                        1.32870709414527,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MAYFLOWER",
+                "LinkName": "MAYFLOWER"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.836809220104,
+                        1.37111526645712,
+                        0.0
+                    ],
+                    [
+                        103.837056302093,
+                        1.37296778755572,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PRINCE EDWARD ROAD",
+                "LinkName": "PRINCE-EDWARD-ROAD"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.846766256953,
+                        1.27305820440638,
+                        0.0
+                    ],
+                    [
+                        103.848210820044,
+                        1.2735371752408,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BUKIT BATOK",
+                "LinkName": "BUKIT-BATOK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.749330229888,
+                    1.34846267921789,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "JURONG EAST",
+                "LinkName": "JURONG-EAST"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.741861119052,
+                    1.33330264695893,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "DHOBY GHAUT",
+                "LinkName": "DHOBY-GHAUT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846111616094,
+                    1.2986786143261,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BUONA",
+                "LinkName": "BUONA"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.791326636033,
+                        1.30944129428447,
+                        0.0
+                    ],
+                    [
+                        103.791149672821,
+                        1.3100593213227,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PASIR RIS",
+                "LinkName": "PASIR-RIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.949334194306,
+                    1.37268003391141,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "FORT CANNING",
+                "LinkName": "FORT-CANNING"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.844118730763,
+                        1.29213096359624,
+                        0.0
+                    ],
+                    [
+                        103.84428352284,
+                        1.29241823890055,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BENCOOLEN",
+                "LinkName": "BENCOOLEN"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.850306567606,
+                        1.29885746650295,
+                        0.0
+                    ],
+                    [
+                        103.850518421872,
+                        1.29911157618815,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GREAT WORLD",
+                "LinkName": "GREAT-WORLD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833562589427,
+                    1.29468795253204,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "ROCHOR",
+                "LinkName": "ROCHOR"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.852372757107,
+                        1.30409651170101,
+                        0.0
+                    ],
+                    [
+                        103.85265136984,
+                        1.30391930291491,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BOTANIC GARDENS",
+                "LinkName": "BOTANIC-GARDENS"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.816254911087,
+                        1.3225781312151,
+                        0.0
+                    ],
+                    [
+                        103.816582179637,
+                        1.32253886504423,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GEK POH",
+                "LinkName": "GEK-POH"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.697934359302,
+                        1.34823797315089,
+                        0.0
+                    ],
+                    [
+                        103.698264141864,
+                        1.34819978138809,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TANJONG PAGAR",
+                "LinkName": "TANJONG-PAGAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845613707367,
+                    1.27651152598596,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "FOUNDERS' MEMORIAL",
+                "LinkName": "FOUNDERS'-MEMORIAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86904902642,
+                    1.29090504400465,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TAMPINES NORTH",
+                "LinkName": "TAMPINES-NORTH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93783647284,
+                    1.36877556960019,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "LOYANG",
+                "LinkName": "LOYANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.972124128135,
+                    1.37113303935458,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "AVIATION PARK",
+                "LinkName": "AVIATION-PARK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.003384843649,
+                    1.37012037323753,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "HAVELOCK",
+                "LinkName": "HAVELOCK"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.833441373916,
+                        1.28889288108273,
+                        0.0
+                    ],
+                    [
+                        103.833468410919,
+                        1.28702394049795,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CHINESE GARDEN",
+                "LinkName": "CHINESE-GARDEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.732902364628,
+                    1.34216103167742,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "ANG MO KIO",
+                "LinkName": "ANG-MO-KIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849201215347,
+                    1.3704264812108,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TANAH MERAH",
+                "LinkName": "TANAH-MERAH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94597771608,
+                    1.32692963866643,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SIMEI",
+                "LinkName": "SIMEI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.953120810557,
+                    1.3433181520403,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "QUEENSTOWN",
+                "LinkName": "QUEENSTOWN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805697126508,
+                    1.29498290965459,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "KOVAN",
+                "LinkName": "KOVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884926920816,
+                    1.3598319381692,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "KRANJI",
+                "LinkName": "KRANJI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.761892614638,
+                    1.42492498407635,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TECK GHEE",
+                "LinkName": "TECK-GHEE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843406579419,
+                    1.36511370177807,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TAVISTOCK",
+                "LinkName": "TAVISTOCK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862867623815,
+                    1.36992395216491,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "DEFU",
+                "LinkName": "DEFU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.898692239551,
+                    1.36207331147782,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "JURONG HILL",
+                "LinkName": "JURONG-HILL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.710131538738,
+                        1.31803047979688,
+                        0.0
+                    ],
+                    [
+                        103.710202464973,
+                        1.31835686596971,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "JURONG PIER",
+                "LinkName": "JURONG-PIER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.710384301353,
+                    1.31313376954159,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TOH GUAN",
+                "LinkName": "TOH-GUAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74248859875,
+                    1.33989897302747,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "JURONG TOWN HALL",
+                "LinkName": "JURONG-TOWN-HALL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.745217570048,
+                    1.32638717021229,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "ALJUNIED",
+                "LinkName": "ALJUNIED"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.882532630529,
+                    1.31625451358514,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "HOLLAND VILLAGE",
+                "LinkName": "HOLLAND-VILLAGE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.795978967498,
+                    1.31189426907696,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CORPORATION",
+                "LinkName": "CORPORATION"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.713402561504,
+                        1.35256804197687,
+                        0.0
+                    ],
+                    [
+                        103.713677432328,
+                        1.3527553698902,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "STADIUM",
+                "LinkName": "STADIUM"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.87518729662,
+                        1.30277868248852,
+                        0.0
+                    ],
+                    [
+                        103.875485595488,
+                        1.30291974388223,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "LORONG CHUAN",
+                "LinkName": "LORONG-CHUAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863716806857,
+                    1.3515380783584,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "JOO KOON",
+                "LinkName": "JOO-KOON"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.678121290671,
+                        1.32763983237065,
+                        0.0
+                    ],
+                    [
+                        103.678450876694,
+                        1.32763985316901,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TAMPINES WEST",
+                "LinkName": "TAMPINES-WEST"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.938488800403,
+                        1.34457338372822,
+                        0.0
+                    ],
+                    [
+                        103.93851096363,
+                        1.34676109458969,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CASHEW",
+                "LinkName": "CASHEW"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764467830334,
+                    1.3694851028525,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GUL CIRCLE",
+                "LinkName": "GUL-CIRCLE"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.660653369612,
+                        1.3195170518942,
+                        0.0
+                    ],
+                    [
+                        103.660883499221,
+                        1.31975451505327,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "DAKOTA",
+                "LinkName": "DAKOTA"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.888444914184,
+                        1.30823958902693,
+                        0.0
+                    ],
+                    [
+                        103.888840324193,
+                        1.30830689209192,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CALDECOTT",
+                "LinkName": "CALDECOTT"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.839632466305,
+                        1.33752055780847,
+                        0.0
+                    ],
+                    [
+                        103.839636966234,
+                        1.33785224524217,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "KENT RIDGE",
+                "LinkName": "KENT-RIDGE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.784495033332,
+                    1.29295174594509,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CLEMENTI",
+                "LinkName": "CLEMENTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.765015612347,
+                    1.31536868427635,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BRADDELL",
+                "LinkName": "BRADDELL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846895683264,
+                    1.34014411766572,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "LENTOR",
+                "LinkName": "LENTOR"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.835709635357,
+                        1.38560339787789,
+                        0.0
+                    ],
+                    [
+                        103.837058549092,
+                        1.38431864644195,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TAN KAH KEE",
+                "LinkName": "TAN-KAH-KEE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.807296762562,
+                    1.32594951213801,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "KING ALBERT PARK",
+                "LinkName": "KING-ALBERT-PARK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.783918293793,
+                    1.33562324372336,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MARINA SOUTH PIER",
+                "LinkName": "MARINA-SOUTH-PIER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863000308855,
+                    1.27143967526742,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "UPPER CHANGI",
+                "LinkName": "UPPER-CHANGI"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.961355702477,
+                        1.34082627723385,
+                        0.0
+                    ],
+                    [
+                        103.961977198594,
+                        1.3429227767042,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MATTAR",
+                "LinkName": "MATTAR"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.883042106827,
+                        1.32682992525846,
+                        0.0
+                    ],
+                    [
+                        103.883335767507,
+                        1.32667932185332,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "XILIN",
+                "LinkName": "XILIN"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.964950515102,
+                        1.32848856533051,
+                        0.0
+                    ],
+                    [
+                        103.965073409401,
+                        1.32879635931587,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BENDEMEER",
+                "LinkName": "BENDEMEER"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.862711606546,
+                        1.31363256304469,
+                        0.0
+                    ],
+                    [
+                        103.863012699576,
+                        1.31376748161619,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "DOWNTOWN",
+                "LinkName": "DOWNTOWN"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.852721713897,
+                        1.27943824734303,
+                        0.0
+                    ],
+                    [
+                        103.852998746992,
+                        1.27925855153373,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "OUTRAM PARK",
+                "LinkName": "OUTRAM-PARK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83928991516,
+                    1.28157040780332,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SHENTON WAY",
+                "LinkName": "SHENTON-WAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850493172346,
+                    1.27769582253088,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "ADMIRALTY",
+                "LinkName": "ADMIRALTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.800589985252,
+                    1.44032467701894,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "KHATIB",
+                "LinkName": "KHATIB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833000245495,
+                    1.41734405203061,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "LAKESIDE",
+                "LinkName": "LAKESIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.720571020304,
+                    1.34405654426621,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "RAFFLES PLACE",
+                "LinkName": "RAFFLES-PLACE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851510597732,
+                    1.28421118846267,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BUGIS",
+                "LinkName": "BUGIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85606485125,
+                    1.3009116284982,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NANYANG GATEWAY",
+                "LinkName": "NANYANG-GATEWAY"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.686619682998,
+                        1.35350802246019,
+                        0.0
+                    ],
+                    [
+                        103.686779012678,
+                        1.35380112574694,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SUNGEI BEDOK",
+                "LinkName": "SUNGEI-BEDOK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.956649904353,
+                    1.32006116684785,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TANJONG RHU",
+                "LinkName": "TANJONG-RHU"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.873439398655,
+                        1.29713969407169,
+                        0.0
+                    ],
+                    [
+                        103.873768762766,
+                        1.29715179100429,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TUAS CRESCENT",
+                "LinkName": "TUAS-CRESCENT"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.648766818958,
+                        1.32114948787126,
+                        0.0
+                    ],
+                    [
+                        103.64900434457,
+                        1.32091951874243,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TELOK AYER",
+                "LinkName": "TELOK-AYER"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.847966484372,
+                        1.28250760675271,
+                        0.0
+                    ],
+                    [
+                        103.848253616008,
+                        1.28234475700181,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BUKIT BROWN",
+                "LinkName": "BUKIT-BROWN"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.830033301199,
+                        1.33331457493733,
+                        0.0
+                    ],
+                    [
+                        103.830362889188,
+                        1.33331494434045,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "UPPER THOMSON",
+                "LinkName": "UPPER-THOMSON"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.83200786043,
+                        1.3547536057722,
+                        0.0
+                    ],
+                    [
+                        103.833638579271,
+                        1.35385918248706,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PANDAN RESERVOIR",
+                "LinkName": "PANDAN-RESERVOIR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.744861260876,
+                    1.32056671070292,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TOA PAYOH",
+                "LinkName": "TOA-PAYOH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847586425462,
+                    1.33263089303201,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SOMERSET",
+                "LinkName": "SOMERSET"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839069261637,
+                    1.3002770336235,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CITY HALL",
+                "LinkName": "CITY-HALL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852742261158,
+                    1.29269424538355,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "FARRER PARK",
+                "LinkName": "FARRER-PARK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854114606149,
+                    1.31236676997762,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CLARKE QUAY",
+                "LinkName": "CLARKE-QUAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84676104186,
+                    1.28894003341287,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BAYFRONT",
+                "LinkName": "BAYFRONT"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.858908705626,
+                        1.28166966150604,
+                        0.0
+                    ],
+                    [
+                        103.859085092429,
+                        1.2819498753646,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "ORCHARD",
+                "LinkName": "ORCHARD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.831346697448,
+                    1.3029147332565,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MARINA SOUTH",
+                "LinkName": "MARINA-SOUTH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863194363307,
+                    1.27406667571693,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CHANGI AIRPORT",
+                "LinkName": "CHANGI-AIRPORT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.988367927274,
+                    1.35722672261815,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SERANGOON NORTH",
+                "LinkName": "SERANGOON-NORTH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.872832398724,
+                    1.37076775122542,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BUKIT BATOK WEST",
+                "LinkName": "BUKIT-BATOK-WEST"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.739548297698,
+                    1.34563865897402,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BRAS BASAH",
+                "LinkName": "BRAS-BASAH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850705974692,
+                    1.29694539607423,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "KEPPEL",
+                "LinkName": "KEPPEL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.830052571107,
+                        1.26976467944323,
+                        0.0
+                    ],
+                    [
+                        103.830595048233,
+                        1.27020877123248,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "LAVENDER",
+                "LinkName": "LAVENDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86273558069,
+                    1.30730850836865,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "HUME",
+                "LinkName": "HUME"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76878275019,
+                    1.35492363942832,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "ESPLANADE",
+                "LinkName": "ESPLANADE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855514300477,
+                    1.29333149675039,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PAYA LEBAR",
+                "LinkName": "PAYA-LEBAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.892569906559,
+                    1.31793025809824,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TANJONG KATONG",
+                "LinkName": "TANJONG-KATONG"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.897314371045,
+                        1.29913275971781,
+                        0.0
+                    ],
+                    [
+                        103.897639531278,
+                        1.29918692463761,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PUNGGOL COAST",
+                "LinkName": "PUNGGOL-COAST"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.909689157446,
+                    1.41466147726118,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PASIR RIS EAST",
+                "LinkName": "PASIR-RIS-EAST"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.959962400042,
+                    1.36740260562679,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CANTONMENT",
+                "LinkName": "CANTONMENT"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.836428197814,
+                        1.27282196335065,
+                        0.0
+                    ],
+                    [
+                        103.836757678215,
+                        1.27283009407724,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BRIGHT HILL",
+                "LinkName": "BRIGHT-HILL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.832337964744,
+                        1.36263474621818,
+                        0.0
+                    ],
+                    [
+                        103.833751192678,
+                        1.36384743294597,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "KATONG PARK",
+                "LinkName": "KATONG-PARK"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.885624383878,
+                        1.29780721946166,
+                        0.0
+                    ],
+                    [
+                        103.885953351149,
+                        1.29778694759784,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "TENGAH PARK",
+                "LinkName": "TENGAH-PARK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.736786997094,
+                    1.35234101831937,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "JURONG WEST",
+                "LinkName": "JURONG-WEST"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.707846759967,
+                        1.34877637159458,
+                        0.0
+                    ],
+                    [
+                        103.708121631705,
+                        1.34896369645051,
+                        0.0
+                    ]
+                ]
+            }
+        }
+    ]
+}
