@@ -1,2 +1,4 @@
 # CE2006-SoftwareEngineering
-https://youtu.be/MkM9EzPyZ5Q
+We miraculously managed to do this project without using Git...
+here's the demo video of the website: https://youtu.be/MkM9EzPyZ5Q
+Enjoy :)
