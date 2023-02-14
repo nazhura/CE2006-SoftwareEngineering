@@ -1,5 +1,5 @@
 # CE2006-SoftwareEngineering
-We miraculously managed to do this project without using Git... <br>
+We miraculously managed to do this project without using Git (or any type of version control)... <br>
 here's the demo video of the website: https://youtu.be/MkM9EzPyZ5Q <br>
 Enjoy :)
 <br><br>
